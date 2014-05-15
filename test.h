@@ -28,10 +28,10 @@
 @name Default Values 
 @{
 *******************************************************************************/
-#define USER_INIT_VAL      0x10
-#define HIGH_VOLT_VAL      0x1A
+#define USER_INIT_VAL      0x66
+#define HIGH_VOLT_VAL      0x44
 #define HIGH_CURR_VAL      0x22
-#define HIGH_LIMT_VAL      0xB2
+#define HIGH_LIMT_VAL      0x92
 /*! @}*************************************************************************/
 
 #endif 
