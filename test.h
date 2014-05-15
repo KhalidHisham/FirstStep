@@ -30,7 +30,7 @@
 *******************************************************************************/
 #define USER_INIT_VAL      0x10
 #define HIGH_VOLT_VAL      0x1A
-#define HIGH_CURR_VAL      0xF0
+#define HIGH_CURR_VAL      0x22
 #define HIGH_LIMT_VAL      0xB2
 /*! @}*************************************************************************/
 
