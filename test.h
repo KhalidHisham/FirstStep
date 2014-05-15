@@ -20,6 +20,7 @@
 #define USER_INIT_ADDR      0x00
 #define HIGH_VOLT_ADDR      0x01
 #define HIGH_CURR_ADDR      0x02
+#define HIGH_LIMT_ADDR      0x03
 
 /*! @}*************************************************************************/
 
@@ -30,6 +31,7 @@
 #define USER_INIT_VAL      0x10
 #define HIGH_VOLT_VAL      0x1A
 #define HIGH_CURR_VAL      0xF0
+#define HIGH_LIMT_VAL      0xB2
 /*! @}*************************************************************************/
 
 #endif 
