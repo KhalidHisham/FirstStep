@@ -10,8 +10,8 @@
 
  @n @Copyright (C) 2014 
 *******************************************************************************/
-#ifndef TEST_2_H
-#define TEST_2_H
+#ifndef TEST_H
+#define TEST_H
 
 /*!
 @name EEPROM Address Specification
@@ -29,9 +29,9 @@
 @{
 *******************************************************************************/
 #define USER_INIT_VAL      0x10
-#define HIGH_VOLT_VAL      0x1A
-#define HIGH_CURR_VAL      0x22
-#define HIGH_LIMT_VAL      0xB2
+#define HIGH_VOLT_VAL      0x22
+#define HIGH_CURR_VAL      0x33
+#define HIGH_LIMT_VAL      0x44
 /*! @}*************************************************************************/
 
 #endif 
